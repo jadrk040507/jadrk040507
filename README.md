@@ -1,22 +1,36 @@
-# jadrk040507 – Portfolio
+## 👋 Hi, I'm Juan Alvaro
 
-Personal portfolio and academic website (including CV, research projects and notes), powered by GitHub Pages and Jekyll.
+**Economist & Data Scientist** — causal inference, machine learning, applied microeconomics.
 
-## 🚀 Features
+🎓 B.Sc. Economics @ Universidad Panamericana (GPA 98/100, top of class)
+📊 Thesis: Bayesian Phillips curve estimation with time-varying parameters (MCMC)
+📝 Working paper with Prof. Akito Kamei (UChicago): Double ML for water quality & child health
 
-- Online CV
-- Research projects and publications
-- Notes/blog posts
-- Deployed automatically via GitHub Pages
+---
 
-## 📦 Getting Started (local preview)
+### 🔬 Research & Projects
 
-```bash
-# Install Jekyll if you don't have it
-gem install bundler jekyll
+| Project | Methods | |
+|---------|---------|------|
+| **E. coli & Child Health** | Double ML (IRM), gradient boosting, MICS surveys | [Repo →](https://github.com/jadrk040507/mics-water-health-ddml) |
+| **Fiscal Policy SVAR** | Structural VAR, short/long-run restrictions | [Repo →](https://github.com/jadrk040507/svar-fiscal-policy-mexico) |
+| **ENSO & Maize Yields** | Time series, seasonal decomposition, forecasting | [Repo →](https://github.com/jadrk040507/enso-maize-climate-mexico) |
 
-# Install the dependencies
-bundle install
+---
 
-# Serve locally
-bundle exec jekyll serve
+### 🛠️ Tools & Methods
+
+`Causal Inference` `Double ML` `DiD` `IV` `RDD` `Bayesian MCMC` `State-Space` `SVAR` `Phillips Curve` `XGBoost` `Random Forest` `Elastic Net` `Python` `R` `Stata` `Git` `LaTeX`
+
+---
+
+### 🏆 Highlights
+
+- **Don Lavoie Fellow** — Mercatus Center, George Mason University (2025)
+- **Recuadro Banxico** — "Comportamiento de las Expectativas de Inflación" with Dr. Arnulfo Rodríguez
+- **Data Science Intern** — Entropia.AI (2025)
+- **Full merit scholarship**, UNAM (high school valedictorian)
+
+---
+
+📄 [CV](https://github.com/jadrk040507/jadrk040507) · 💼 [LinkedIn](https://linkedin.com/in/jadrk040507) · 📧 [jadrk040507@gmail.com](mailto:jadrk040507@gmail.com)
