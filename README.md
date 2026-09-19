@@ -7,7 +7,7 @@ Economist and data scientist working on causal inference, applied econometrics, 
 | Project | Focus |
 |---|---|
 | [Comarca](https://github.com/jadrk040507/comarca) | Tested data platform with an API, web client, reproducible builds, and automated link verification |
-| [Household water treatment and child health](https://github.com/jadrk040507/mics-water-health-ddml) | Double/debiased machine learning with MICS survey microdata |
+| [Household water treatment and child health](https://github.com/jadrk040507/MICS_DDML) | Double/debiased machine learning with MICS survey microdata |
 | [Fiscal policy shocks in Mexico](https://github.com/jadrk040507/svar-fiscal-policy-mexico) | Structural VAR, bootstrap impulse responses, and rolling estimation |
 | [Bayesian Phillips curve for Mexico](https://github.com/jadrk040507/phillips-curve-mexico) | Time-varying parameters and Bayesian MCMC |
 | [Catecismo Digital](https://github.com/jadrk040507/catecismo-next) | Full-stack educational application with role-based administration |
