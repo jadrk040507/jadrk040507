@@ -1,36 +1,23 @@
-## 👋 Hi, I'm Juan Alvaro
+# Juan Alvaro Díaz Raimond Kedilhac
 
-**Economist & Data Scientist** — causal inference, machine learning, applied microeconomics.
+Economist and data scientist working on causal inference, applied econometrics, machine learning, and research software.
 
-🎓 B.Sc. Economics @ Universidad Panamericana (GPA 98/100, top of class)
-📊 Thesis: Bayesian Phillips curve estimation with time-varying parameters (MCMC)
-📝 Working paper with Prof. Akito Kamei (UChicago): Double ML for water quality & child health
+## Selected work
 
----
+| Project | Focus |
+|---|---|
+| [Comarca](https://github.com/jadrk040507/comarca) | Tested data platform with an API, web client, reproducible builds, and automated link verification |
+| [Household water treatment and child health](https://github.com/jadrk040507/mics-water-health-ddml) | Double/debiased machine learning with MICS survey microdata |
+| [Fiscal policy shocks in Mexico](https://github.com/jadrk040507/svar-fiscal-policy-mexico) | Structural VAR, bootstrap impulse responses, and rolling estimation |
+| [Bayesian Phillips curve for Mexico](https://github.com/jadrk040507/phillips-curve-mexico) | Time-varying parameters and Bayesian MCMC |
+| [Catecismo Digital](https://github.com/jadrk040507/catecismo-next) | Full-stack educational application with role-based administration |
 
-### 🔬 Research & Projects
+Across these projects I use R, Python, TypeScript, Stata, SQL, and LaTeX. My methodological interests include Double ML, difference-in-differences, instrumental variables, regression discontinuity, Bayesian state-space models, and structural time series.
 
-| Project | Methods | |
-|---------|---------|------|
-| **E. coli & Child Health** | Double ML (IRM), gradient boosting, MICS surveys | [Repo →](https://github.com/jadrk040507/mics-water-health-ddml) |
-| **Fiscal Policy SVAR** | Structural VAR, short/long-run restrictions | [Repo →](https://github.com/jadrk040507/svar-fiscal-policy-mexico) |
-| **ENSO & Maize Yields** | Time series, seasonal decomposition, forecasting | [Repo →](https://github.com/jadrk040507/enso-maize-climate-mexico) |
+## Background
 
----
+- B.Sc. in Economics, Universidad Panamericana
+- Don Lavoie Fellow, Mercatus Center at George Mason University (2025)
+- Data Science Intern, Entropia.AI (2025)
 
-### 🛠️ Tools & Methods
-
-`Causal Inference` `Double ML` `DiD` `IV` `RDD` `Bayesian MCMC` `State-Space` `SVAR` `Phillips Curve` `XGBoost` `Random Forest` `Elastic Net` `Python` `R` `Stata` `Git` `LaTeX`
-
----
-
-### 🏆 Highlights
-
-- **Don Lavoie Fellow** — Mercatus Center, George Mason University (2025)
-- **Recuadro Banxico** — "Comportamiento de las Expectativas de Inflación" with Dr. Arnulfo Rodríguez
-- **Data Science Intern** — Entropia.AI (2025)
-- **Full merit scholarship**, UNAM (high school valedictorian)
-
----
-
-📄 [CV](https://github.com/jadrk040507/jadrk040507) · 💼 [LinkedIn](https://linkedin.com/in/jadrk040507) · 📧 [jadrk040507@gmail.com](mailto:jadrk040507@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jadrk040507/) · [Email](mailto:jadrk040507@gmail.com)
