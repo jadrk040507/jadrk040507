@@ -19,8 +19,8 @@ Economics undergraduate at Universidad Panamericana in Mexico City, expecting to
 | --- | --- |
 | [MICS_DDML](https://github.com/jadrk040507/MICS_DDML) | Double/debiased machine learning with household survey microdata |
 | [Fiscal policy shocks in Mexico](https://github.com/jadrk040507/svar-fiscal-policy-mexico) | Structural VAR, bootstrap impulse responses, and rolling estimation |
-| [Bayesian Phillips curve for Mexico](https://github.com/jadrk040507/phillips-curve-mexico) | Time-varying parameters and Bayesian MCMC |
-| [Disability and the labor market](https://github.com/jadrk040507/disability-labour) | ENOE microdata workflows in Python, Stata, and R |
+| [Phillips curve for Mexico](https://github.com/jadrk040507/phillips-curve-mexico) | Thesis code samples: time-varying parameters and Kalman filtering in R |
+| [Disability and the labor market](https://github.com/jadrk040507/disability-labour) | ENIGH 2020 research-code and reproducibility workflows in Python, Stata, and R |
 
 ## Background & tools
 
